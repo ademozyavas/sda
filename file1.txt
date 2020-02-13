@@ -1,1 +1,2 @@
 The first line in my file
+a second line

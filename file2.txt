@@ -1,1 +1,2 @@
 second file with a single line
+a second line to show commit --amend
